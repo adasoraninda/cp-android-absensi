@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Absensi</string>
+    <string name="cd_image_person">Image person</string>
+    <string name="check_in">Check-In</string>
+    <string name="scanning">Scanning....</string>
+    <string name="hint_enter_your_name">Enter your name</string>
+</resources>
